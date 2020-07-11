@@ -1,0 +1,3 @@
+algorithmia>=1.0.0
+six
+git+https://github.com/cw75/torchMoji
