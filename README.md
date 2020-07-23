@@ -1,6 +1,6 @@
 # torchMojiBot
 
-This repo contains the code and detailed instruction to reproduce the intelligent Slackbot I built in this blog post (TODO: add link). Powered by the [torchMoji](https://github.com/cw75/torchMoji) model, the bot automatically reacts to Slack messages with emoji.
+This repo contains the code and detailed instruction to reproduce the intelligent Slackbot I built in this [blog post](https://towardsdatascience.com/how-i-built-a-deep-learning-powered-emoji-slackbot-5d3e59b76d0#229c-19e0b1a26b5b). Powered by the [torchMoji](https://github.com/cw75/torchMoji) model, the bot automatically reacts to Slack messages with emoji.
 
 Before proceeding, make sure you have installed `python3` (the repo is tested with python3.6), `wget`, and `zip`.  
 Also, install and configure [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
