@@ -1,4 +1,4 @@
-# torchMojiBot
+# Deep Learning Powered Emoji Slackbot
 
 This repo contains the code and detailed instruction to reproduce the intelligent Slackbot I built in this [blog post](https://towardsdatascience.com/how-i-built-a-deep-learning-powered-emoji-slackbot-5d3e59b76d0#229c-19e0b1a26b5b). Powered by the [torchMoji](https://github.com/cw75/torchMoji) model, the bot automatically reacts to Slack messages with emoji.
 
